@@ -1,4 +1,4 @@
-# Minimalist React to-do web app
+# Minimalist React.js to-do web app
 
 You can test the website [right here](https://to-do-sigma-ashen.vercel.app/).
 
