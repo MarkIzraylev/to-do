@@ -4,6 +4,8 @@ You can test the website [right here](https://to-do-sigma-ashen.vercel.app/).
 
 ### Tech used: React, LocalStorage, CSS modules, dateFormat library
 
+![chrome_sD6T8EYuK6](https://github.com/MarkIzraylev/to-do/assets/68638924/20bb58f0-b48d-4971-8a49-e80d9b7e001e)
+
 ## How to run localy
 In the project directory, you can run:
 
