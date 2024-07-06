@@ -1,0 +1,10 @@
+.mainContainer {
+    display: grid;
+    min-width: 400px;
+    width: 45vw;
+    margin: 10px auto;
+    margin-top: 35vh;
+}
+.paragraph {
+    margin: 0 0 10px 0;
+}

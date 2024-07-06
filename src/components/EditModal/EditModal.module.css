@@ -1,0 +1,12 @@
+.modal {
+    display: grid;
+    row-gap: 10px;
+    border: none;
+    border-radius: 6px;
+    width: 500px;
+}
+.buttonsBlock {
+    display: grid;
+    column-gap: 10px;
+    grid-template-columns: 1fr 1fr;
+}

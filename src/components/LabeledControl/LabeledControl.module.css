@@ -1,0 +1,16 @@
+.labeledControl input {
+    width: 100%;
+    /* border: 1px solid #ccc; */
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    padding: 5px 10px;
+    height: 30px;
+    outline: none;
+    box-sizing: border-box;
+    font-family: "Helvetica Neue",Helvetica,Arial;
+}
+
+.labeledControl {
+    display: grid;
+    row-gap: 5px;
+}
